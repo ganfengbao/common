@@ -1,4 +1,4 @@
-package spring_in_action.Chapter_01.knights;
+package spring_in_action.Chapter_01.java.knights;
 
 import org.junit.Test;
 import static org.mockito.Mockito.*;

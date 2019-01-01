@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="discovery-eureka" />
+        <module name="easyexcel" />
+        <module name="provider-user" />
+        <module name="simple-consumer-user" />
+        <module name="simple-provider-user" />
+        <module name="simple-provider-user (1)" />
+        <module name="springclouddocker" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="discovery-eureka" target="1.8" />
+      <module name="easyexcel" target="1.5" />
+      <module name="provider-user" target="1.8" />
+      <module name="simple-consumer-user" target="1.8" />
+      <module name="simple-provider-user" target="1.8" />
+      <module name="simple-provider-user (1)" target="1.8" />
+      <module name="springclouddocker" target="1.5" />
+      <module name="utils" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

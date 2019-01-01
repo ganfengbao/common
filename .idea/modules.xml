@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JDK8/JDK8.iml" filepath="$PROJECT_DIR$/JDK8/JDK8.iml" />
       <module fileurl="file://$PROJECT_DIR$/common.iml" filepath="$PROJECT_DIR$/common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springclouddocker/discovery-eureka/discovery-eureka.iml" filepath="$PROJECT_DIR$/springclouddocker/discovery-eureka/discovery-eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/utils/easyexcel/easyexcel.iml" filepath="$PROJECT_DIR$/utils/easyexcel/easyexcel.iml" />
       <module fileurl="file://$PROJECT_DIR$/io/io.iml" filepath="$PROJECT_DIR$/io/io.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springclouddocker/provider-user/simple-provider-user (1).iml" filepath="$PROJECT_DIR$/springclouddocker/provider-user/simple-provider-user (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/springclouddocker/simple-consumer-user/simple-consumer-user.iml" filepath="$PROJECT_DIR$/springclouddocker/simple-consumer-user/simple-consumer-user.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springclouddocker/simple-provider-user/simple-provider-user.iml" filepath="$PROJECT_DIR$/springclouddocker/simple-provider-user/simple-provider-user.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring/spring.iml" filepath="$PROJECT_DIR$/spring/spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/springclouddocker/springclouddocker.iml" filepath="$PROJECT_DIR$/springclouddocker/springclouddocker.iml" />
-      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
     </modules>
   </component>
 </project>

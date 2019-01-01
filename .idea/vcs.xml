@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/design_mode" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/spring" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/thread" vcs="svn" />
   </component>
 </project>

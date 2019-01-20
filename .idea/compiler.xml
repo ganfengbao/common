@@ -12,6 +12,7 @@
         <module name="simple-consumer-user" />
         <module name="simple-provider-user" />
         <module name="simple-provider-user (1)" />
+        <module name="spring-cloud-docker" />
         <module name="springclouddocker" />
       </profile>
     </annotationProcessing>
@@ -22,6 +23,7 @@
       <module name="simple-consumer-user" target="1.8" />
       <module name="simple-provider-user" target="1.8" />
       <module name="simple-provider-user (1)" target="1.8" />
+      <module name="spring-cloud-docker" target="1.5" />
       <module name="springclouddocker" target="1.5" />
       <module name="utils" target="1.5" />
     </bytecodeTargetLevel>
